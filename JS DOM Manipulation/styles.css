@@ -1,0 +1,9 @@
+header {
+    padding: 10px;
+}
+body {
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
